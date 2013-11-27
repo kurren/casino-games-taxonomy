@@ -1,0 +1,50 @@
+[{
+    "Games of chance": [{
+        "Casino games": [{
+            "Random Number games": ["'Bingo", "Keno", "Scratch Cards", "Tombola", "Big Six Wheel", "Money Wheel", "Dice Wheel", "Head or Tail"]
+        }, {
+            "Table Games": [{
+                "Cards games": [{
+                        "Baccarat": ["EZ Baccarat", "Super 6", "Chemin de Fer", "Baccarat Banque"]
+                    }, {
+                        "Blackjack": ["Spanish 21", "Double Exposure Blackjack", "Double Attack Blackjack", "Blacjack Switch", "Multiple Action Blackjack", "Super Fun 21", "Single Hand Blackjack", "Multi Hand Blackjack"]
+                    }, {
+                        "Poker": [{
+                            "Stud Poker": ["Seven-card Stud", "Six-card Stud", {
+                                "Five-card Stud": ["High-Low", "Canadian Stud", "Mexican Stud", "Telesina", "Asian Five-card Stud"]
+                            }, "Razz", "London Lowball", "Eight-or-Better High-Low Stud", "High-Low Stud", "Mississipi Stud", "Mexican Stud", "Caribbean Stud"]
+                        }, {
+                            "Draw Poker": ["Five-card Draw"]
+                        }, {
+                            "Community Card Poker": [{
+                                "Texas hold'em": ["Double-board hold 'em", "Double Hold 'em", "Irish Poker", "No River hold'em", "Royal hold'em"]
+                            }, "Omaha hold'em", "Pineapple", "Crazy Pineapple", "Tahoe hold'em", "Super hold'em", {
+                                "Manila": ["Pinatubo"]
+                            }]
+                        }, {
+                            "Casino Poker": ["Pai Gow Poker", "Three Card Poker", "Let it ride Poker"]
+                        }]
+                    },
+                    ["Casino War", "Trente et Quarante", "Pontoon", "Faro", "Monte Bank", "Basset", "Red Dog", "Acey Deucey", "Teen Patti"]
+                ]
+            }, "Tiles games", {
+                "Dice": [{
+                        "Craps": ["Bank Craps", "Crapless Craps", "Die Rich Craps", "High Point Craps", "New York Craps", "Simplified Crapless"]
+                    },
+                    ["Chuck-a-luck", "Bau cua ca cop", "Hoo Hey How", "Crown and Anchor"]
+                ]
+            }, {
+                "Roulettes": ["French Roulette", "European Roulette", "English Roulette", "American Roulette", "Mini Roulette", "Multi Wheel Roulette"]
+            }]
+        }, {
+            "Gamimg Machines": [
+                "Pachisuro",
+                "Patchinko", {
+                    "Slot Machines": ["Classic Slots", "Video Slots", "Megaspins"]
+                }, {
+                    "Video Poker": ["Jacks or Better", "Tens or Better", "Deuces Wild", "Bonus Poker", "Double Bonus", "Double Double Bonus", "Aces & Faces", "Megajacks"]
+                }
+            ]
+        }]
+    }]
+}]
